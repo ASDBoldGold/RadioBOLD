@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <rotator>
   <panel>
-    <number>0</number>
-    <image>https://static.wixstatic.com/media/026b7f_47adba6b610c46309fe9e80686302f10~mv2.jpg</image>
+    <number>1</number>
+    <image>https://github.com/ASDBoldGold/RadioBOLD/blob/main/Thunder_640x800.jpg?raw=true</image>
     <url>https://www.thunder102.com</url>
     <redirect>n</redirect>
   </panel>
