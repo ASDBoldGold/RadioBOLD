@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rotator>
+  <panel>
+    <number>1</number>
+    <image>https://static.wixstatic.com/media/026b7f_c813e0c80a9d4f038eabe565ec80010b~mv2.jpg</image>
+    <url>https://runawaytrainbrewery.com/
+</url>
+    <redirect>n</redirect>
+  </panel>
+  <panel>
+    <number>2</number>
+    <image>https://static.wixstatic.com/media/026b7f_fb36a8bb96e74bea83fc463e5ecd2622~mv2.jpg</image>
+    <url>https://www.radiobold.com/inspiration
+</url>
+    <redirect>n</redirect>
+  </panel>
+  <panel>
+    <number>3</number>
+    <image>https://static.wixstatic.com/media/026b7f_44dbf562e4c74f59a8718667b8a1a14b~mv2.jpg</image>
+    <redirect>n</redirect>
+  </panel>
+</rotator>
