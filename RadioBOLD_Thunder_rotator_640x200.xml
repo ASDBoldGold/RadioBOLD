@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rotator>
+  <panel>
+    <number>1</number>
+    <image>https://static.wixstatic.com/media/026b7f_740803b36e72481b9bc09d46fef28a96~mv2.png</image>
+    <url>https://runawaytrainbrewery.com/
+</url>
+    <redirect>n</redirect>
+  </panel>
+  <panel>
+    <number>2</number>
+    <image>https://static.wixstatic.com/media/026b7f_e9be38be63ab4ba0b6cc91ec21c391c3~mv2.jpg</image>
+    <url>https://www.radiobold.com/inspiration
+</url>
+    <redirect>n</redirect>
+  </panel>
+  <panel>
+    <number>3</number>
+    <image>https://static.wixstatic.com/media/026b7f_f9f9b246092149e3b10b64119b8defde~mv2.jpg</image>
+    <url>https://www.radiobold.com/catskillsnewsdaily</url>
+    <redirect>n</redirect>
+  </panel>
+  <panel>
+    <number>3</number>
+    <image>https://static.wixstatic.com/media/026b7f_5475fbc681e744918d4fa775494e500e~mv2.jpg</image>
+    <url>https://www.radiobold.com/catskillsnewspod</url>
+    <redirect>n</redirect>
+  </panel>
+  panel>
+    <number>4</number>
+    <image>https://static.wixstatic.com/media/026b7f_96e62c4008c24dedb2971b0e4eac45bb~mv2.jpg</image>
+    <url>https://www.nyuhs.org/location-search/uhs-primary-care-walton</url>
+    <redirect>n</redirect>
+  </panel>
+</rotator>
